@@ -1,0 +1,25 @@
+E:\University\Semester 5\Project1\coffee\BDLayer\bin\Debug\BDLayer.dll
+E:\University\Semester 5\Project1\coffee\BDLayer\bin\Debug\BDLayer.pdb
+E:\University\Semester 5\Project1\coffee\BDLayer\obj\Debug\BDLayer.dll
+E:\University\Semester 5\Project1\coffee\BDLayer\obj\Debug\BDLayer.pdb
+E:\University\Semester 5\Project1\coffee\BDLayer\obj\Debug\BDLayer.csprojResolveAssemblyReference.cache
+E:\Coffee\BDLayer\bin\Debug\BDLayer.dll
+E:\Coffee\BDLayer\bin\Debug\BDLayer.pdb
+E:\Coffee\BDLayer\obj\Debug\BDLayer.csprojResolveAssemblyReference.cache
+E:\Coffee\BDLayer\obj\Debug\BDLayer.dll
+E:\Coffee\BDLayer\obj\Debug\BDLayer.pdb
+E:\University\Semester 5\Project1\Coffee _1.1\Coffee\BDLayer\bin\Debug\BDLayer.dll
+E:\University\Semester 5\Project1\Coffee _1.1\Coffee\BDLayer\bin\Debug\BDLayer.pdb
+E:\University\Semester 5\Project1\Coffee _1.1\Coffee\BDLayer\obj\Debug\BDLayer.csprojResolveAssemblyReference.cache
+E:\University\Semester 5\Project1\Coffee _1.1\Coffee\BDLayer\obj\Debug\BDLayer.dll
+E:\University\Semester 5\Project1\Coffee _1.1\Coffee\BDLayer\obj\Debug\BDLayer.pdb
+D:\Desktop\Coffee _1.1\Coffee\BDLayer\bin\Debug\BDLayer.dll
+D:\Desktop\Coffee _1.1\Coffee\BDLayer\bin\Debug\BDLayer.pdb
+D:\Desktop\Coffee _1.1\Coffee\BDLayer\obj\Debug\BDLayer.csprojResolveAssemblyReference.cache
+D:\Desktop\Coffee _1.1\Coffee\BDLayer\obj\Debug\BDLayer.dll
+D:\Desktop\Coffee _1.1\Coffee\BDLayer\obj\Debug\BDLayer.pdb
+E:\University\Semester 5\Project1\Coffee-_1.4\Coffee _1.1\Coffee\BDLayer\bin\Debug\BDLayer.dll
+E:\University\Semester 5\Project1\Coffee-_1.4\Coffee _1.1\Coffee\BDLayer\bin\Debug\BDLayer.pdb
+E:\University\Semester 5\Project1\Coffee-_1.4\Coffee _1.1\Coffee\BDLayer\obj\Debug\BDLayer.csprojResolveAssemblyReference.cache
+E:\University\Semester 5\Project1\Coffee-_1.4\Coffee _1.1\Coffee\BDLayer\obj\Debug\BDLayer.dll
+E:\University\Semester 5\Project1\Coffee-_1.4\Coffee _1.1\Coffee\BDLayer\obj\Debug\BDLayer.pdb
