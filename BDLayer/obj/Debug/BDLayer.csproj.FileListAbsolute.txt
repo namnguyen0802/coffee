@@ -1,5 +1,0 @@
-E:\University\Semester 5\Project1\coffee\BDLayer\bin\Debug\BDLayer.dll
-E:\University\Semester 5\Project1\coffee\BDLayer\bin\Debug\BDLayer.pdb
-E:\University\Semester 5\Project1\coffee\BDLayer\obj\Debug\BDLayer.dll
-E:\University\Semester 5\Project1\coffee\BDLayer\obj\Debug\BDLayer.pdb
-E:\University\Semester 5\Project1\coffee\BDLayer\obj\Debug\BDLayer.csprojResolveAssemblyReference.cache
